@@ -47,6 +47,7 @@ TitleUIGradient.Parent = TitleLabel
 local ToggleButton = Instance.new("TextButton")
 ToggleButton.Name = "ToggleButton"
 ToggleButton.Size = UDim2.new(0, 20, 0, 20)
+ToggleButton.Transparency = 1
 ToggleButton.Position = UDim2.new(0.85, 0, 0.2, 0)
 ToggleButton.BackgroundColor3 = Color3.new(0, 0, 0)
 ToggleButton.TextColor3 = Color3.new(1, 1, 1)
